@@ -14,7 +14,7 @@ print("_________________")
 # penamaan 
 # nilai y = 27 tidak boleh
 nilaiy  = 15 # dengan menggunakan underscore
-# 10rubu = 100 tidak boleh
+# 10ribu = 100 tidak boleh
 ribu10 = 18 # boleh
 
 nilaiZ = 82 # boleh
