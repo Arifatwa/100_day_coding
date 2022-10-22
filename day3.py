@@ -17,7 +17,7 @@ print("data : ", data_float,"type : ", type(data_float))
 data_int = int(data_float) # akan di bulatkan ke bawah
 data_str = str(data_float)
 data_bool = bool(data_float) # akan false jika nilai float adalah nol
-print("data : ", data_float, "type : ", type(data_float))
+print("data : ", data_int, "type : ", type(data_float))
 print("data : ", data_str, "type : ", type(data_str))
 print("data : ", data_bool, "type : ", type(data_bool))
 
@@ -28,7 +28,7 @@ print("data : ", data_bool,"type : ", type(data_bool))
 data_int = int(data_bool) 
 data_str = str(data_bool) # akan langsung di tulis 
 data_float = bool(data_bool) 
-print("data : ", data_float, "type : ", type(data_bool))
+print("data : ", data_int, "type : ", type(data_bool))
 print("data : ", data_str, "type : ", type(data_bool))
 print("data : ", data_float, "type : ", type(data_bool))
 
