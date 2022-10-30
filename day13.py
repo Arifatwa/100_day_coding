@@ -8,7 +8,7 @@ while n < 5:
         break
     else:
         print("Password yang anda masukkan salah")
-        continue
+        
     if n == 5:
         print("Gagal Login")
         break
