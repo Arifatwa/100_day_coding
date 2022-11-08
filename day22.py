@@ -28,7 +28,6 @@ def tipe_data():
     #del se[3] tidak dapat menghapus dengan index
     se.remove("arif") #menghapus
     print(f"nilai = {se}")
-    
 
 
 tipe_data()
