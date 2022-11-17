@@ -11,3 +11,5 @@ elif jenismotor == "vario":
     print(f"harga : {harga[2]}")
 else:
     print("tidak tersedia")
+
+# masik sama yang tadik malam ntor 
