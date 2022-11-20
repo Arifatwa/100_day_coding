@@ -18,7 +18,7 @@ print(f"panjang data = {panjang_data}\n")
 
 
 print("------------> manipulasi data list")
-# menambah
+# menambah , menyisipkan nilai
 print(f"data sebelum di tambah = {data}\n")
 data.insert(1,"fisah")
 print(f"data yang di tambah = {data}\n")
