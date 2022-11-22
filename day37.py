@@ -1,6 +1,9 @@
 
 # contoh kasus
 
+
+# contoh kasus
+
 gaji = int(input("Masukkan gaji anda : "))
 pekerjaan = input("Masukkan pekerjaan anda : ".lower())
 
@@ -33,9 +36,14 @@ else :
     pajak = 0
     print(f"pajak = {pajak}")
     print(f"gaji bersih = { gaji - pajak}")
+<<<<<<< HEAD
 
 
 
 
 
 
+=======
+    
+# mohon di terima {'-'}
+>>>>>>> 2f64899fb7076dd97d9ab1853c3fa7c0f6cf3d16
