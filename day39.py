@@ -1,7 +1,7 @@
 nama = input("Nama karyawan :")
 gaji = int(input("Gaji pokok :"))
 jml_anak = int(input("Jumlah anak :"))
-status_Nikah = input("Status Nikah y / n :".lower())
+status_Nikah = input("Status Nikah y / n :". upper())
 
 print(f"\nNama karyawan = {nama}")
 print(f"gaji poko = {gaji}")
