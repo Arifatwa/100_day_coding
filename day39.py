@@ -19,7 +19,7 @@ gaji_awal = tunjangan_anak + gaji + tunjangan_istri
 pajak = gaji_awal * 10 / 100
 gajiBersih = gaji_awal - pajak
 
-print("\n====================================\n")
+print("====================================\n")
 
 print(f"jumlah tunjangan = {tunjangan_istri + tunjangan_anak}")
 print(f"gaji pokok = {gaji_awal}")
