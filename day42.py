@@ -1,3 +1,9 @@
+#Ruang lingkup (dan siklus hidup) variabel pada fungsi
+#variabel global
+#adalah variabel  yang bisa di panggil dari manapun dari file phyton
+#variabel lokal
+#adalah variabel yang hanya hidup di dalam satu blok kode tertentu (seperti di dalam fungsi)
+
 Buah = 'Melon'
 
 def manisnya():
