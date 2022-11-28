@@ -5,10 +5,8 @@
 #adalah variabel yang hanya hidup di dalam satu blok kode tertentu (seperti di dalam fungsi)
 
 Buah = 'Melon'
-
 def manisnya():
     print(Buah)
-
 print('print secara langsung enaknya buah', Buah)
 print('[panggil fungsi manisnya buah]', end=' ')
 manisnya()
