@@ -34,7 +34,7 @@ print("________________________________\n")
 mahasiswa2 = wafisah("nurwafisah", 19, "kuliah", 50.3)
 print(f"nama lengkap wafisah adalah {mahasiswa2.nama}")
 print(f"umur wafisah {mahasiswa2.umur} tahun")
-print(f"status wafisah berukuran {mahasiswa2.status}")
+print(f"status wafisah {mahasiswa2.status}")
 print(f"tinggi wafisah berukuran {mahasiswa2.tinggi} cm")
 # pemanggilan method
 mahasiswa2.kelakuan()
